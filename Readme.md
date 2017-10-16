@@ -1,4 +1,4 @@
-#Repositorio sobre curso de Php e Git/Github
+# Repositorio sobre curso de Php e Git/Github
 
 *Neste repositorio estarei trazendo exemplos de trabalhos do curso de PhP.*
 
